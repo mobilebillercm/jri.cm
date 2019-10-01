@@ -1,0 +1,12 @@
+/*li.list-item:before{
+    content: "\009B";
+}*/
+
+.mylist-menu li a {
+    color: #343730;
+    font-size: smaller;
+}
+.rd-navbar-megamenu{
+    /*overflow: scroll;*/
+}
+
